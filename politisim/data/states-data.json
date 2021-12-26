@@ -1,0 +1,412 @@
+{
+  "states": [
+    {
+      "id": 0,
+      "name": "Alabama",
+      "abbreviation": "AL",
+      "delegationSize": 7,
+      "maineRule": false,
+      "PVI": -15
+    },
+    {
+      "id": 1,
+      "name": "Alaska",
+      "abbreviation": "AK",
+      "delegationSize": 1,
+      "maineRule": false,
+      "PVI": -9
+    },
+    {
+      "id": 2,
+      "name": "Arizona",
+      "abbreviation": "AZ",
+      "delegationSize": 9,
+      "maineRule": false,
+      "PVI": -3
+    },
+    {
+      "id": 3,
+      "name": "Arkansas",
+      "abbreviation": "AR",
+      "delegationSize": 4,
+      "maineRule": false,
+      "PVI": -16
+    },
+    {
+      "id": 4,
+      "name": "California",
+      "abbreviation": "CA",
+      "delegationSize": 52,
+      "maineRule": false,
+      "PVI": 14
+    },
+    {
+      "id": 5,
+      "name": "Colorado",
+      "abbreviation": "CO",
+      "delegationSize": 8,
+      "maineRule": false,
+      "PVI": 3
+    },
+    {
+      "id": 6,
+      "name": "Connecticut",
+      "abbreviation": "CT",
+      "delegationSize": 5,
+      "maineRule": false,
+      "PVI": 7
+    },
+    {
+      "id": 7,
+      "name": "Delaware",
+      "abbreviation": "DE",
+      "delegationSize": 1,
+      "maineRule": false,
+      "PVI": 6
+    },
+    {
+      "id": 8,
+      "name": "District of Columbia",
+      "abbreviation": "DC",
+      "delegationSize": 1,
+      "maineRule": false,
+      "PVI": 43
+    },
+    {
+      "id": 9,
+      "name": "Florida",
+      "abbreviation": "FL",
+      "delegationSize": 28,
+      "maineRule": false,
+      "PVI": -3
+    },
+    {
+      "id": 10,
+      "name": "Georgia",
+      "abbreviation": "GA",
+      "delegationSize": 14,
+      "maineRule": false,
+      "PVI": -3
+    },
+    {
+      "id": 11,
+      "name": "Hawai'i",
+      "abbreviation": "HI",
+      "delegationSize": 2,
+      "maineRule": false,
+      "PVI": 15
+    },
+    {
+      "id": 12,
+      "name": "Idaho",
+      "abbreviation": "ID",
+      "delegationSize": 2,
+      "maineRule": false,
+      "PVI": -19
+    },
+    {
+      "id": 13,
+      "name": "Illinois",
+      "abbreviation": "IL",
+      "delegationSize": 17,
+      "maineRule": false,
+      "PVI": 7
+    },
+    {
+      "id": 14,
+      "name": "Indiana",
+      "abbreviation": "IN",
+      "delegationSize": 9,
+      "maineRule": false,
+      "PVI": -11
+    },
+    {
+      "id": 15,
+      "name": "Iowa",
+      "abbreviation": "IA",
+      "delegationSize": 4,
+      "maineRule": false,
+      "PVI": -6
+    },
+    {
+      "id": 16,
+      "name": "Kansas",
+      "abbreviation": "KS",
+      "delegationSize": 4,
+      "maineRule": false,
+      "PVI": -11
+    },
+    {
+      "id": 17,
+      "name": "Kentucky",
+      "abbreviation": "KY",
+      "delegationSize": 6,
+      "maineRule": false,
+      "PVI": -16
+    },
+    {
+      "id": 18,
+      "name": "Louisiana",
+      "abbreviation": "LA",
+      "delegationSize": 6,
+      "maineRule": false,
+      "PVI": -12
+    },
+    {
+      "id": 19,
+      "name": "Maine",
+      "abbreviation": "ME",
+      "delegationSize": 2,
+      "maineRule": true,
+      "PVI": 1
+    },
+    {
+      "id": 20,
+      "name": "Maryland",
+      "abbreviation": "MD",
+      "delegationSize": 8,
+      "maineRule": false,
+      "PVI": 14
+    },
+    {
+      "id": 21,
+      "name": "Massachusetts",
+      "abbreviation": "MA",
+      "delegationSize": 9,
+      "maineRule": false,
+      "PVI": 14
+    },
+    {
+      "id": 22,
+      "name": "Michigan",
+      "abbreviation": "MI",
+      "delegationSize": 13,
+      "maineRule": false,
+      "PVI": -1
+    },
+    {
+      "id": 23,
+      "name": "Minnesota",
+      "abbreviation": "MN",
+      "delegationSize": 8,
+      "maineRule": false,
+      "PVI": 1
+    },
+    {
+      "id": 24,
+      "name": "Mississippi",
+      "abbreviation": "MS",
+      "delegationSize": 4,
+      "maineRule": false,
+      "PVI": -10
+    },
+    {
+      "id": 25,
+      "name": "Missouri",
+      "abbreviation": "MO",
+      "delegationSize": 8,
+      "maineRule": false,
+      "PVI": -11
+    },
+    {
+      "id": 26,
+      "name": "Montana",
+      "abbreviation": "MT",
+      "delegationSize": 2,
+      "maineRule": false,
+      "PVI": -11
+    },
+    {
+      "id": 27,
+      "name": "Nebraska",
+      "abbreviation": "NE",
+      "delegationSize": 3,
+      "maineRule": true,
+      "PVI": -13
+    },
+    {
+      "id": 28,
+      "name": "Nevada",
+      "abbreviation": "NV",
+      "delegationSize": 4,
+      "maineRule": false,
+      "PVI": 0
+    },
+    {
+      "id": 29,
+      "name": "New Hampshire",
+      "abbreviation": "NH",
+      "delegationSize": 2,
+      "maineRule": false,
+      "PVI": 0
+    },
+    {
+      "id": 30,
+      "name": "New Jersey",
+      "abbreviation": "NJ",
+      "delegationSize": 12,
+      "maineRule": false,
+      "PVI": 6
+    },
+    {
+      "id": 31,
+      "name": "New Mexico",
+      "abbreviation": "NM",
+      "delegationSize": 3,
+      "maineRule": false,
+      "PVI": 3
+    },
+    {
+      "id": 32,
+      "name": "New York",
+      "abbreviation": "NY",
+      "delegationSize": 26,
+      "maineRule": false,
+      "PVI": 10
+    },
+    {
+      "id": 33,
+      "name": "North Carolina",
+      "abbreviation": "NC",
+      "delegationSize": 14,
+      "maineRule": false,
+      "PVI": -3
+    },
+    {
+      "id": 34,
+      "name": "North Dakota",
+      "abbreviation": "ND",
+      "delegationSize": 1,
+      "maineRule": false,
+      "PVI": -20
+    },
+    {
+      "id": 35,
+      "name": "Ohio",
+      "abbreviation": "OH",
+      "delegationSize": 15,
+      "maineRule": false,
+      "PVI": -6
+    },
+    {
+      "id": 36,
+      "name": "Oklahoma",
+      "abbreviation": "OK",
+      "delegationSize": 5,
+      "maineRule": false,
+      "PVI": -20
+    },
+    {
+      "id": 37,
+      "name": "Oregon",
+      "abbreviation": "OR",
+      "delegationSize": 6,
+      "maineRule": false,
+      "PVI": 6
+    },
+    {
+      "id": 38,
+      "name": "Pennsylvania",
+      "abbreviation": "PA",
+      "delegationSize": 17,
+      "maineRule": false,
+      "PVI": -2
+    },
+    {
+      "id": 39,
+      "name": "Rhode Island",
+      "abbreviation": "RI",
+      "delegationSize": 2,
+      "maineRule": false,
+      "PVI": 8
+    },
+    {
+      "id": 40,
+      "name": "South Carolina",
+      "abbreviation": "SC",
+      "delegationSize": 7,
+      "maineRule": false,
+      "PVI": -8
+    },
+    {
+      "id": 41,
+      "name": "South Dakota",
+      "abbreviation": "SD",
+      "delegationSize": 1,
+      "maineRule": false,
+      "PVI": -16
+    },
+    {
+      "id": 42,
+      "name": "Tennessee",
+      "abbreviation": "TN",
+      "delegationSize": 9,
+      "maineRule": false,
+      "PVI": -14
+    },
+    {
+      "id": 43,
+      "name": "Texas",
+      "abbreviation": "TX",
+      "delegationSize": 38,
+      "maineRule": false,
+      "PVI": -5
+    },
+    {
+      "id": 44,
+      "name": "Utah",
+      "abbreviation": "UT",
+      "delegationSize": 4,
+      "maineRule": false,
+      "PVI": -13
+    },
+    {
+      "id": 45,
+      "name": "Vermont",
+      "abbreviation": "VT",
+      "delegationSize": 1,
+      "maineRule": false,
+      "PVI": 15
+    },
+    {
+      "id": 46,
+      "name": "Virginia",
+      "abbreviation": "VA",
+      "delegationSize": 11,
+      "maineRule": false,
+      "PVI": 2
+    },
+    {
+      "id": 47,
+      "name": "Washington",
+      "abbreviation": "WA",
+      "delegationSize": 10,
+      "maineRule": false,
+      "PVI": 8
+    },
+    {
+      "id": 48,
+      "name": "West Virginia",
+      "abbreviation": "WV",
+      "delegationSize": 2,
+      "maineRule": false,
+      "PVI": -23
+    },
+    {
+      "id": 49,
+      "name": "Wisconsin",
+      "abbreviation": "WI",
+      "delegationSize": 8,
+      "maineRule": false,
+      "PVI": -2
+    },
+    {
+      "id":50 ,
+      "name": "Wyoming",
+      "abbreviation": "WY",
+      "delegationSize": 1,
+      "maineRule": false,
+      "PVI": -26
+    }
+  ]
+}
