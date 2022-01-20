@@ -1,4 +1,19 @@
 {
+  "parties": [
+    {
+      "id": 0,
+      "color": "blue",
+      "name": "Democratic",
+      "initial": "D"
+    },
+    {
+      "id": 1,
+      "color": "red",
+      "name": "Republican",
+      "initial": "R"
+    }
+  ],
+
   "states": [
     {
       "id": 0,
